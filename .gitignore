@@ -1,0 +1,5 @@
+.venv/
+IMDB Dataset.csv
+sentiment_log_model.pkl
+sentiment_nb_model.pkl
+tfidf_vectorizer.pkl
